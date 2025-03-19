@@ -63,7 +63,7 @@ const AboutPage = () => {
     },
       {
       title: "Analytics Edge with R",
-      issuer: "Massachusettsc Institute of Technology",
+      issuer: "MIT",
       year: "2022",
     },
   ];
