@@ -61,6 +61,11 @@ const AboutPage = () => {
       issuer: "Microsoft",
       year: "2022",
     },
+      {
+      title: "Analytics Edge with R",
+      issuer: "Massachusettsc Institute of Technology",
+      year: "2022",
+    },
   ];
 
   return (
