@@ -35,9 +35,7 @@ const ExperiencePage = () => {
         "Analyzed over 8,000 hours of user data monthly via Python (pandas) and advanced visualizations, generating actionable insights.",
         "Automated SQL-to-API migration and scheduling tasks with Airflow, reducing workload by 60%.",
         "Contributed to machine learning (NLP, sentiment analysis) initiatives with scikit-learn, NLTK, and OpenCV.",
-        "Led cross-functional teams in geospatial analytics projects, optimizing route planning and cutting operational costs by 12%.",
-        "Introduced A/B testing frameworks for new product features, improving adoption rates by 20%.",
-        "Mentored junior analysts, spearheading knowledge-sharing sessions on Python best practices and advanced SQL queries."
+        "Led cross-functional teams in geospatial analytics projects, optimizing route planning and cutting operational costs by 12%."
       ],
     },
   ];
